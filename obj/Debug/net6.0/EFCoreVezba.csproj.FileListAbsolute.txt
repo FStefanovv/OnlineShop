@@ -1,0 +1,276 @@
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/appsettings.Development.json
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/appsettings.json
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.deps.json
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.runtimeconfig.json
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Humanizer.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Npgsql.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.csproj.AssemblyReference.cache
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.AssemblyInfoInputs.cache
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.AssemblyInfo.cs
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.csproj.CoreCompileInputs.cache
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cs
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cache
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/staticwebassets.build.json
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/staticwebassets.development.json
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/scopedcss/bundle/EFCoreVezba.styles.css
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.csproj.CopyComplete
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/refint/EFCoreVezba.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.genruntimeconfig.cache
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/ref/EFCoreVezba.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/AutoMapper.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Castle.Core.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/filip/Desktop/.NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/appsettings.Development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/appsettings.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.deps.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.runtimeconfig.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/AutoMapper.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Castle.Core.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Humanizer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Npgsql.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.csproj.AssemblyReference.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.AssemblyInfoInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.AssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.csproj.CoreCompileInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/staticwebassets.build.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/staticwebassets.development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/scopedcss/bundle/EFCoreVezba.styles.css
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.csproj.CopyComplete
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/refint/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/EFCoreVezba.genruntimeconfig.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/EFCoreVezba/obj/Debug/net6.0/ref/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/appsettings.Development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/appsettings.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/EFCoreVezba
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/EFCoreVezba.deps.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/EFCoreVezba.runtimeconfig.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/AutoMapper.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Castle.Core.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Humanizer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Npgsql.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.csproj.AssemblyReference.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.AssemblyInfoInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.AssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.csproj.CoreCompileInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/staticwebassets.build.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/staticwebassets.development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/scopedcss/bundle/EFCoreVezba.styles.css
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.csproj.CopyComplete
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/refint/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/EFCoreVezba.genruntimeconfig.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/Bank/obj/Debug/net6.0/ref/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/appsettings.Development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/appsettings.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/EFCoreVezba
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/EFCoreVezba.deps.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/EFCoreVezba.runtimeconfig.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/AutoMapper.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Castle.Core.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Humanizer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Npgsql.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.csproj.AssemblyReference.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.AssemblyInfoInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.AssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.csproj.CoreCompileInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/staticwebassets.build.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/staticwebassets.development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/scopedcss/bundle/EFCoreVezba.styles.css
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.csproj.CopyComplete
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/refint/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/EFCoreVezba.genruntimeconfig.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OrderingApp/obj/Debug/net6.0/ref/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.csproj.AssemblyReference.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.AssemblyInfoInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.AssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.csproj.CoreCompileInputs.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cs
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/refint/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/appsettings.Development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/appsettings.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/EFCoreVezba
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/EFCoreVezba.deps.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/EFCoreVezba.runtimeconfig.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/AutoMapper.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Castle.Core.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Humanizer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Npgsql.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/staticwebassets.build.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/staticwebassets.development.json
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/scopedcss/bundle/EFCoreVezba.styles.css
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.csproj.CopyComplete
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/EFCoreVezba.genruntimeconfig.cache
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/obj/Debug/net6.0/ref/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/MailKit.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/MimeKit.dll
+/home/filip/Desktop/C# .NET /EFCore Vezba/OnlineShop/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/appsettings.Development.json
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/appsettings.json
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/EFCoreVezba
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/EFCoreVezba.deps.json
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/EFCoreVezba.runtimeconfig.json
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/AutoMapper.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Castle.Core.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Humanizer.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/MailKit.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/MimeKit.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Npgsql.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/filip/Desktop/C# .NET /OnlineShop/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.csproj.AssemblyReference.cache
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.AssemblyInfoInputs.cache
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.AssemblyInfo.cs
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.csproj.CoreCompileInputs.cache
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cs
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.MvcApplicationPartsAssemblyInfo.cache
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/staticwebassets.build.json
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/staticwebassets.development.json
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/scopedcss/bundle/EFCoreVezba.styles.css
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.csproj.CopyComplete
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/refint/EFCoreVezba.dll
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.pdb
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/EFCoreVezba.genruntimeconfig.cache
+/home/filip/Desktop/C# .NET /OnlineShop/obj/Debug/net6.0/ref/EFCoreVezba.dll
